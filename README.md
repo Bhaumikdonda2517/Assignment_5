@@ -1,1 +1,2 @@
 # Assignment_5
+This Go project includes a function, CountCharOccurrences, which counts the occurrences of a specified character in a given string. The project consists of three main files: coun.go, which contains the implementation of the function; coun_test.go, which includes unit tests to verify the function's correctness; and go.mod, which defines the module for the project. To run the tests and ensure everything is working correctly, use the command go test.
